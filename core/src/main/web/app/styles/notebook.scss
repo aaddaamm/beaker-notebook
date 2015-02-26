@@ -32,6 +32,11 @@
   }
 }
 
+.bk-section-title:focus {
+  outline: none;
+  background-color: #B8E1FB;
+}
+
 .btn-group.new-cell {
   .btn-xs {
     line-height: 1em;
